@@ -1,2 +1,3 @@
-# Data-Analysis-Deshboard
-This Power BI project analyzes Blinkit grocery sales through data processing, cleaning, and visualization, providing insights into sales performance, outlet distribution, item categories, and customer ratings.
+# Data-Analysis-Deshboard using powerBI
+**##Objective of the project**
+The objective of this project is to design an interactive Power BI dashboard that enables stakeholders to gain deep insights into Blinkit’s grocery sales data by analyzing sales trends, outlet performance, item categories, and customer ratings—ultimately supporting data-driven decision-making and operational improvements.
